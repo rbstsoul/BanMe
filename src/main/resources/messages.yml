@@ -1,0 +1,8 @@
+#Thanks for using BanMe plugin!
+#Author: rbstsoul
+#This is the first version of BanMe plugin, thanks for using it.
+
+#Use & symbol to make texts colorful. More information: https://minecraft.fandom.com/wiki/Formatting_codes
+
+#What's my prefix? (Don't add spaces after prefix, plugin makes it automatically. Like, don't do "&cMy cool prefix: ", instead of it, do "&cMy cool prefix:"
+prefix: "&8[&4Ban&cMe&8]"
