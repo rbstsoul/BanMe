@@ -1,0 +1,15 @@
+name: BanMe
+version: '0.1'
+main: me.rbstsoul.BanMe
+api-version: 1.17
+authors: [ rbstsoul ]
+description: A simple ban/kick/mute plugin.
+commands:
+  kick:
+    description: Kick the player with a reason.
+    usage: /<command> <player> <optional reason>
+
+permissions:
+  banme.command.kick:
+    description: Allows you to use the kick command.
+    default: op

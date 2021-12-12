@@ -1,0 +1,34 @@
+#Thanks for using BanMe plugin!
+#Author: rbstsoul
+#This is the first version of BanMe plugin, thanks for using it.
+
+#Use & symbol to make texts colorful. More information: https://minecraft.fandom.com/wiki/Formatting_codes
+
+#What's my prefix? (Don't add spaces after prefix, plugin makes it automatically. Like, don't do "&cMy cool prefix: ", instead of it, do "&cMy cool prefix:"
+prefix: "&8[&4Ban&cMe&8]"
+
+#What will I say to the person who use a command without the required permission?
+no-permission: "&cYou don't have enough permission!"
+
+#What will I say to the person who use a command without writing the player?
+no-player: "&cYou need to write a player."
+
+#What will I say to the person who use a command with writing a offline player?
+player-offline: "&cThis player is not online."
+
+#What will I say to the person who use a command with writing himself/herself as a player?
+dont-write-yourself: "&cYou can't write yourself."
+
+#What will I say to the person who gets kicked?
+kick-message: |-
+    &cYou got kicked!
+
+    &e%admin% &ckicked you.
+
+    &cReason: &e%reason%
+
+#What will I say to the person who kicked anyone?
+kicked: "&aKicked &e%player%!"
+
+#What will I write as reason if there is no reason specified?
+default-reason: "None"
