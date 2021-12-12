@@ -1,6 +1,0 @@
-#Thanks for using BanMe plugin!
-#Author: rbstsoul
-#This is the first version of BanMe plugin, thanks for using it.
-
-#If you make "enabled: false", plugin will disable on startup. If you make "enabled: true", plugin will enable on startup.
-enabled: true

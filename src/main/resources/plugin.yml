@@ -1,6 +1,0 @@
-name: BanMe
-version: '${project.version}'
-main: me.rbstsoul.BanMe
-api-version: 1.17
-authors: [ rbstsoul ]
-description: A simple ban/kick/mute plugin.
